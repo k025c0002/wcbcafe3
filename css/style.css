@@ -78,7 +78,7 @@ img{
 
 /*HOME*/
 .cover-home{
-    background-image: url("../images/cover-home-s.webp");
+    background-image: url("../images_1/cover-home-s.webp");
 }
 
 .about{
@@ -92,9 +92,7 @@ img{
 }
 
 /*ニュース*/
-.cover-menu{
-    background-image: url("../images_1/cover-menu-s.webp");
-}
+
 .cover-menu{
     background-image: url("../images_1/cover-menu-l.webp");
 }
