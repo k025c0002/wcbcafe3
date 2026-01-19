@@ -1,5 +1,5 @@
 @charset "UTF-8";
-#共通部分
+/*共通部分*/
 html{
     font-size:100%;
 }
@@ -17,11 +17,11 @@ a{
 img{
     max-width:100%;
 }
-#レイアウト
+/*レイアウト*/
 .align-center{
     text-align: center;
 }
-#見出し
+/*見出し*/
 .font-english{
     font-family: "Philosopher",sans-serif;
     font-weight: normal;
@@ -33,7 +33,7 @@ img{
     font-size: 3rem;
     text-align: center;
 }
-#ヘッダー
+/*ヘッダー*/
 .page-header{
     padding-top: .5rem;
 }
@@ -76,7 +76,7 @@ img{
 }
 
 
-#HOME
+/*HOME*/
 .cover-home{
     background-image: url("../images/cover-home-s.webp");
 }
@@ -91,12 +91,12 @@ img{
     margin-bottom: 3rem;
 }
 
-#ニュース
+/*ニュース*/
 .cover-menu{
-    background-image: url("../images/cover-menu-s.webp");
+    background-image: url("../images_1/cover-menu-s.webp");
 }
 .cover-menu{
-    background-image: url("../images/cover-menu-l.webp");
+    background-image: url("../images_1/cover-menu-l.webp");
 }
 
 
@@ -162,7 +162,7 @@ img{
     text-align: center;
     margin-bottom: 1rem;
 }
-#ボタン
+/*ボタン*/
 .btn{
     display: inline-block;
     font-size: 1.5rem;
@@ -180,12 +180,12 @@ img{
     translate: 10px -20px;
 }
 .page-footer{
-    background-image: url(../images/footer-s.webp);
+    background-image: url(../images_1/footer-s.webp);
     background-size: cover;
     background-position: center;
     padding-top: 12rem;
 }
-#フッター
+/*フッター*/
 .info{
     width: 100%;
     max-width: 544px;
@@ -237,7 +237,7 @@ img{
 }
 
 .cover-home{
-    background-image: url(../images/cover-home-l.webp);
+    background-image: url(../images_1/cover-home-l.webp);
 }
 
 .about{
@@ -245,7 +245,7 @@ img{
 }
 
 .page-footer{
-    background-image: url(../images/footer-l.webp);
+    background-image: url(../images_1/footer-l.webp);
     padding-top:12rem ;
 }
 
@@ -264,7 +264,7 @@ img{
     text-align: center;
 }
 
-#記事部分
+/*記事部分*/
 .post{
     margin-bottom: 3rem;
 }
@@ -305,7 +305,7 @@ img{
     line-height: 2;
 }
 
-#サイドバー
+/*サイドバー*/
 .side-menu{
     list-style: none;
     text-align: center;
